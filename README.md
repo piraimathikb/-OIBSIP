@@ -1,4 +1,5 @@
 TASK 1 : BMI CALCULATOR 
+
 📌 Objective
 The Advanced BMI Calculator is a Python-based desktop GUI application built using Tkinter. It allows users to calculate their Body Mass Index (BMI) and receive health-related advice based on their BMI category. This project is part of the Oasis Infobyte Internship - Task 1 and aims to combine basic data science, GUI design, and data visualization to offer a health-focused utility application.
 ________________________________________
@@ -38,6 +39,7 @@ This project demonstrates the practical use of Python for health-related applica
 
 
 TASK 2: RANDOM PASSWORD GENERATOR
+
 📌 Objective
 The Advanced Password Generator is a Python GUI application built using Tkinter that generates secure, customizable passwords based on user preferences. This tool allows users to control password length, character types, repetition, and similarity exclusions. It's designed to enhance password security for personal or professional use.
 This project was completed as Task 2 of the Oasis Infobyte Internship.
@@ -76,6 +78,7 @@ This project demonstrates the implementation of secure password generation techn
 
 
 TASK 3: CHAT APPLICATION
+
 📌 Objective
 The Chat Application is a basic client-server model built using Python's socket and threading libraries. It enables multiple clients to connect to a server and exchange messages in real time via the command-line interface. This project demonstrates real-time communication and concurrent client handling.
 This project was completed as Task 3 of the Oasis Infobyte Internship.
@@ -110,5 +113,6 @@ ________________________________________
     o	Received and printed on the server
     o	Broadcast to all other connected clients
 •	threading.Thread is used to handle each client independently, allowing multiple users to chat simultaneously.
-Outcome :
+
+📈Outcome :
 The project resulted in the successful development of a real-time chat application using Python’s socket and threading modules. The server efficiently handles multiple client connections concurrently, enabling smooth and uninterrupted communication. Clients are able to send and receive messages instantly over a TCP connection, simulating a basic chat environment. This project effectively demonstrates the principles of network communication and multithreaded programming in Python
